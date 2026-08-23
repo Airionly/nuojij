@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1787448943003,
+  "timestamp": 1787448950011,
   "appVersion": "6.9.30 (2026.07.20)",
   "tables": [
     "characters",
@@ -127,7 +127,9 @@
     "mcpServers": true,
     "thinkingStore": true,
     "commitments": true,
-    "characterLifeState": true
+    "characterLifeState": true,
+    "chikanPhoneSkins": true,
+    "healthEntries": true
   },
   "inProgress": true
 }
