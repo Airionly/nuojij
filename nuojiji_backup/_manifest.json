@@ -1,7 +1,7 @@
 {
   "version": 6,
-  "timestamp": 1787569254768,
-  "appVersion": "6.9.45 (2026.08.23)",
+  "timestamp": 1787628729414,
+  "appVersion": "6.9.49 (2026.08.25)",
   "tables": [
     "characters",
     "friendRequests",
@@ -51,6 +51,7 @@
     "customWidgetTemplates",
     "customWidgetState",
     "wallpapers",
+    "lifeRpgData",
     "whiteDogData",
     "isekaiSaves",
     "isekaiPresets",
