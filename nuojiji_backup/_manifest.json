@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "timestamp": 1795096083400,
+  "timestamp": 1795096106822,
   "appVersion": "",
   "source": "auto",
   "device": "app-android",
@@ -247,7 +247,7 @@
     "_migration": true
   },
   "complete": true,
-  "lastCompleteAt": 1795096083400,
+  "lastCompleteAt": 1795096106822,
   "secretsIncluded": false,
   "inProgress": false,
   "files": {
@@ -266,10 +266,10 @@
       "gz": false,
       "b": "d7baf8b4e38b08289d6f4c31fdf41be5f8231f25"
     },
-    "_localStorage.json": {
-      "h": "g:68ad65ad54605bbc0c7467f9fcec74f6061f91f0",
+    "globalSettings_chunk_1.json": {
+      "h": "g:ac7260d721f19423d61ce484efd23353f676efea",
       "gz": false,
-      "b": "68ad65ad54605bbc0c7467f9fcec74f6061f91f0"
+      "b": "ac7260d721f19423d61ce484efd23353f676efea"
     },
     "stickers_chunk_0.json": {
       "h": "g:bf8a3b668288e20549eff45069f8f95df8b17b62",
@@ -291,15 +291,10 @@
       "gz": false,
       "b": "859ba8e41935502eb8785621d53c08dc9dcdf200"
     },
-    "globalSettings_chunk_0.json": {
-      "h": "g:0986d6f7bc2cbd148a282c9f9c29162de89ab29e",
+    "userState.json": {
+      "h": "g:1c4bb83f61027566bad5965c497220ad167fb066",
       "gz": false,
-      "b": "0986d6f7bc2cbd148a282c9f9c29162de89ab29e"
-    },
-    "globalSettings_chunk_1.json": {
-      "h": "g:ac7260d721f19423d61ce484efd23353f676efea",
-      "gz": false,
-      "b": "ac7260d721f19423d61ce484efd23353f676efea"
+      "b": "1c4bb83f61027566bad5965c497220ad167fb066"
     },
     "userPosts.json": {
       "h": "g:b66965acdcc2bc9aa02b5dc82c86d57ccdf37f61",
@@ -381,11 +376,6 @@
       "gz": false,
       "b": "e70b3c634f11064b1390d055d606d2247e8b1821"
     },
-    "userState.json": {
-      "h": "g:1c4bb83f61027566bad5965c497220ad167fb066",
-      "gz": false,
-      "b": "1c4bb83f61027566bad5965c497220ad167fb066"
-    },
     "tmSessions_chunk_1.json": {
       "h": "g:f4815b4e6db0df1f144efe04ffcbe633f4a8a790",
       "gz": false,
@@ -401,20 +391,25 @@
       "gz": false,
       "b": "dd16a1ecdc88f6f672dd7ef4cd4477e76c6c4355"
     },
+    "tmSessions_chunk_4.json": {
+      "h": "g:cbce08aa7e1b471ee858128f0a36678b42a0225b",
+      "gz": false,
+      "b": "cbce08aa7e1b471ee858128f0a36678b42a0225b"
+    },
     "tmStories_chunk_0.json": {
       "h": "g:4e282ac2b44085e090693f78603554c92865ba79",
       "gz": false,
       "b": "4e282ac2b44085e090693f78603554c92865ba79"
     },
+    "_localStorage.json": {
+      "h": "g:89376607598e8a6dfdbdaa3ceef146e5cdf6024e",
+      "gz": false,
+      "b": "89376607598e8a6dfdbdaa3ceef146e5cdf6024e"
+    },
     "tmStories_chunk_1.json": {
       "h": "g:3c8beb976e73fb0573bf92594075a632cc1efc86",
       "gz": false,
       "b": "3c8beb976e73fb0573bf92594075a632cc1efc86"
-    },
-    "tmSessions_chunk_4.json": {
-      "h": "g:cbce08aa7e1b471ee858128f0a36678b42a0225b",
-      "gz": false,
-      "b": "cbce08aa7e1b471ee858128f0a36678b42a0225b"
     },
     "tmStories_chunk_2.json": {
       "h": "g:367773f414b4cae8ace579f88865ee8d57f54917",
@@ -435,6 +430,11 @@
       "h": "g:99a8ffd64b70752a4ce306b4c3cf81da666abbb4",
       "gz": true,
       "b": "ce554e0998ee458c95613ba17cb0d58762ff8831"
+    },
+    "tmStories_chunk_6.json": {
+      "h": "g:dbc078fc84954d0f4c7981ed7c78ac2dc8b28d72",
+      "gz": false,
+      "b": "dbc078fc84954d0f4c7981ed7c78ac2dc8b28d72"
     },
     "multiSceneSessions.json": {
       "h": "g:e8b20d24ce3193ab054045111eeb8069642711f8",
@@ -710,6 +710,11 @@
       "h": "g:66ab126fd1cfb67bccb9457f166798dd37a52726",
       "gz": false,
       "b": "66ab126fd1cfb67bccb9457f166798dd37a52726"
+    },
+    "globalSettings_chunk_0.json": {
+      "h": "g:67603009edc254f031a850d31351c960524c0a2f",
+      "gz": false,
+      "b": "67603009edc254f031a850d31351c960524c0a2f"
     },
     "imageStore_chunk_14.json": {
       "h": "g:d221f213d29f359eb219da6b2fed643331d5b9e4",
@@ -1040,11 +1045,6 @@
       "h": "g:f159350bac65139a14389c0ae38c10c86c411d7a",
       "gz": false,
       "b": "f159350bac65139a14389c0ae38c10c86c411d7a"
-    },
-    "tmStories_chunk_6.json": {
-      "h": "g:dbc078fc84954d0f4c7981ed7c78ac2dc8b28d72",
-      "gz": false,
-      "b": "dbc078fc84954d0f4c7981ed7c78ac2dc8b28d72"
     },
     "fontStore_chunk_4.json": {
       "h": "g:12cf27d0fe0cf5109c332061f60ee99e06be0487",
